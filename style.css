@@ -169,7 +169,6 @@ nav .navigation ul .btn a.tea-light:hover{
     max-width:100%;
     width: 90%;
     height:80vh;
-    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
     background-attachment: fixed;
 }
 #about .about-text h3{
