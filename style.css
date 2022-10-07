@@ -169,6 +169,7 @@ nav .navigation ul .btn a.tea-light:hover{
     max-width:100%;
     width: 90%;
     height:80vh;
+    margin-left:30px;
     background-attachment: fixed;
 }
 #about .about-text h3{
